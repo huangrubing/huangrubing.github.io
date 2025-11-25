@@ -1575,7 +1575,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
-			color:#9563bb !important;
+			color:#4c8fe1 !important;
 		}
 
 	strong, b {
@@ -1728,7 +1728,7 @@
 	}
 
 	header.major h2 {
-		color:#9563bb;
+		color:#4c8fe1;
 		font-size: 3.5em;
 	}
 
@@ -1791,7 +1791,7 @@
 		input[type="email"]:focus,
 		select:focus,
 		textarea:focus {
-			border-color:#9563bb;
+			border-color:#4c8fe1;
 		}
 
 	.select-wrapper {
@@ -1901,7 +1901,7 @@
 
 		input[type="checkbox"]:focus + label:before,
 		input[type="radio"]:focus + label:before {
-			border-color:#9563bb;
+			border-color:#4c8fe1;
 		}
 
 	input[type="checkbox"] + label:before {
@@ -2095,7 +2095,7 @@
 				}
 
 				ul.feature-icons li:before {
-					background:#9563bb;
+					background:#4c8fe1;
 					border-radius: 100%;
 					color: #ffffff;
 					display: block;
@@ -2382,7 +2382,7 @@
 		input[type="reset"].special,
 		input[type="button"].special,
 		.button.special {
-			background-color:#9563bb;
+			background-color:#4c8fe1;
 			color: #ffffff !important;
 		}
 
@@ -2452,7 +2452,7 @@
 /* Header */
 
 	#header {
-		background:#9563bb;
+		background:#4c8fe1;
 		color: #d1f1e9;
 		height: 100%;
 		position: fixed;
@@ -2824,7 +2824,7 @@
 					}
 
 					#titleBar .toggle:before {
-						background:#9563bb;
+						background:#4c8fe1;
 						color: #ffffff;
 						content: '\f0c9';
 						display: block;
